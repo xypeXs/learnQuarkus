@@ -5,6 +5,7 @@
     <groupId>ru.learn</groupId>
     <artifactId>quarkus</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
 
     <properties>
         <compiler-plugin.version>3.13.0</compiler-plugin.version>
